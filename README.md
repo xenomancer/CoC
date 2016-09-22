@@ -1,2 +1,2 @@
 # CoC
-A code of conduct. Use as you wish.
+Gaze upon my massive Code of Conduct. Use as you wish.
